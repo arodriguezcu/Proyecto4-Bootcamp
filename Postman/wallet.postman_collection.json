@@ -30,7 +30,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\" : \"ALEJANDRO\",\r\n    \"identityType\" : \"DNI\",\r\n    \"identityNumber\" : \"87654321\",\r\n    \"phoneNumber\" : \"987654321\",\r\n    \"purchase\" : {\r\n        \"cardNumber\" : \"11\" \r\n    },\r\n    \"imei\" : \"10111213141516321\",\r\n    \"email\" : \"ALEJANDRO@EVERIS.COM\"\r\n}",
+					"raw": "{\r\n    \"name\" : \"MANUEL\",\r\n    \"identityType\" : \"DNI\",\r\n    \"identityNumber\" : \"11111112\",\r\n    \"phoneNumber\" : \"999999998\",\r\n    \"purchase\" : {\r\n        \"cardNumber\" : \"2\" \r\n    },\r\n    \"imei\" : \"282\",\r\n    \"email\" : \"MANUEL@EVERIS.COM\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -57,7 +57,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"sendWallet\": {\r\n        \"phoneNumber\" : \"987654321\"\r\n    },\r\n    \"receiveWallet\": {\r\n        \"phoneNumber\" : \"987654322\"\r\n    },\r\n    \"amount\" : 100\r\n}",
+					"raw": "{\r\n    \"sendWallet\": {\r\n        \"phoneNumber\" : \"999999999\"\r\n    },\r\n    \"receiveWallet\": {\r\n        \"phoneNumber\" : \"999999998\"\r\n    },\r\n    \"amount\" : 1000\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"

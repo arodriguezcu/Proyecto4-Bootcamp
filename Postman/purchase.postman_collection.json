@@ -93,7 +93,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"product\": {\r\n        \"productName\": \"AHORRO\",\r\n        \"condition\":{\r\n            \"monthlyTransactionLimit\": 2\r\n        }\r\n    },\r\n    \"customerOwner\": [\r\n        {\r\n            \"identityNumber\" : \"87654322\"\r\n        }\r\n    ],\r\n    \"amountIni\" : 500,\r\n    \"cardNumber\" : \"12\"\r\n}\r\n",
+					"raw": "{\r\n    \"product\": {\r\n        \"productName\": \"AHORRO\",\r\n        \"condition\":{\r\n            \"monthlyTransactionLimit\": 5\r\n        }\r\n    },\r\n    \"customerOwner\": [\r\n        {\r\n            \"identityNumber\" : \"11111112\"\r\n        }\r\n    ],\r\n    \"amountIni\" : 5000,\r\n    \"cardNumber\" : \"2\"\r\n}\r\n",
 					"options": {
 						"raw": {
 							"language": "json"

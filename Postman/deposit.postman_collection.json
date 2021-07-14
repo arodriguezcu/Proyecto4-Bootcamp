@@ -30,7 +30,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"account\": {\r\n        \"accountNumber\" : \"193-159732159-62\"\r\n    },\r\n    \"amount\" : 1000,\r\n    \"purchase\" : {\r\n        \"cardNumber\" : \"12\"\r\n    }\r\n}",
+					"raw": "{\r\n    \"account\": {\r\n        \"accountNumber\" : \"190-10101010-01\"\r\n    },\r\n    \"amount\" : 1500,\r\n    \"purchase\" : {\r\n        \"cardNumber\" : \"1\"\r\n    }\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"

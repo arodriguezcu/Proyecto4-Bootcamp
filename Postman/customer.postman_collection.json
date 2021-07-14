@@ -49,7 +49,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\" : \"MANUEL\",\r\n    \"identityType\" : \"DNI\",\r\n    \"identityNumber\" : \"87654322\",\r\n    \"customerType\" : \"PERSONAL\",\r\n    \"address\" : \"PERU\",\r\n    \"phoneNumber\" : \"987654322\"\r\n}",
+					"raw": "{\r\n    \"name\" : \"MANUEL\",\r\n    \"identityType\" : \"DNI\",\r\n    \"identityNumber\" : \"11111112\",\r\n    \"customerType\" : \"PERSONAL\",\r\n    \"address\" : \"PERU\",\r\n    \"phoneNumber\" : \"999999998\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -76,7 +76,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\" : \"EVERIS PERU SAC\",\r\n    \"identityType\" : \"RUC\",\r\n    \"identityNumber\" : \"20876543212\",\r\n    \"customerType\" : \"EMPRESARIAL\",\r\n    \"address\" : \"PERU\",\r\n    \"phoneNumber\" : \"987654312\"\r\n}",
+					"raw": "{\r\n    \"name\" : \"EVERIS\",\r\n    \"identityType\" : \"RUC\",\r\n    \"identityNumber\" : \"2222222223\",\r\n    \"customerType\" : \"EMPRESARIAL\",\r\n    \"address\" : \"PERU\",\r\n    \"phoneNumber\" : \"999999996\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"

@@ -61,7 +61,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"accountNumber\" : \"193-159732159-62\",\r\n    \"purchase\" : {\r\n        \"cardNumber\" : \"12\"\r\n    }\r\n}",
+					"raw": "{\r\n    \"accountNumber\" : \"190-10101010-02\",\r\n    \"purchase\" : {\r\n        \"cardNumber\" : \"2\"\r\n    }\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
